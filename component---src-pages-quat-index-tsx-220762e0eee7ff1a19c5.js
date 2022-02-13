@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyolokuder_gatsby_typescript_jumpstart=self.webpackChunkyolokuder_gatsby_typescript_jumpstart||[]).push([[788],{3257:function(t,e,u){u.r(e),u.d(e,{QuatPage:function(){return s},usePageData:function(){return i}});var r=u(7294),n=u(8385),a=u(6600),c=u(6989),o=u(5444),s=function(){var t=i();return r.createElement(n.jA,{collectionName:"Quạt",collectionHref:c._.Quat},r.createElement(a.M,t))},i=function(){return(0,o.useStaticQuery)("2875685195")};e.default=s}}]);
+//# sourceMappingURL=component---src-pages-quat-index-tsx-220762e0eee7ff1a19c5.js.map
